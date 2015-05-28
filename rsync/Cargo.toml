@@ -1,0 +1,9 @@
+[package]
+
+name = "rsync"
+version = "0.1.0"
+authors = ["Jamie Painter <jamie.painter@rackspace.com>"]
+
+[lib]
+name = "rsync"
+crate-type = ["dylib"]
